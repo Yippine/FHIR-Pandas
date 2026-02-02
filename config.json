@@ -1,0 +1,9 @@
+{
+  "fhirServers": [
+    {
+      "name": "MediCore HAPI FHIR",
+      "url": "http://localhost:8085/fhir",
+      "description": "Local development FHIR Server with TW Core IG support"
+    }
+  ]
+}
